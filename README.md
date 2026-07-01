@@ -5,7 +5,7 @@ A simple, clean task tracker built with React + FastAPI + MongoDB.
 ## Live Demo
 
 - **Frontend**: https://mini-task-tracker-alpha.vercel.app
-- **Backend API**: https://minitasktracker.onrender.com
+- **Backend API**: [https://minitasktracker.onrender.com](https://minitasktracker.onrender.com/docs)
 
 ---
 
